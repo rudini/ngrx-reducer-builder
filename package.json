@@ -29,10 +29,10 @@
   },
   "devDependencies": {
     "@angular/compiler": "^6.1.0",
-    "@angular/compiler-cli": "^6.1.0",
+    "@angular/compiler-cli": "^7.2.14",
     "@angular/core": "^6.1.0",
     "@ngrx/store": "6.1.0",
-    "ng-packagr": "^3.0.3",
+    "ng-packagr": "^5.1.0",
     "prettier": "^1.9.2",
     "rxjs": "^6.0.0",
     "tslint": "^5.9.1",
