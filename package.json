@@ -1,46 +1,46 @@
 {
-  "name": "ngrx-reducer-builder",
-  "version": "0.0.1",
-  "description": "Reducer Utility Library for NGRX",
-  "main": "dist/index.js",
-  "scripts": {
-    "build": "ng-packagr -p package.json",
-    "publish": "npm publish dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rudini/ngrx-reducer-builder.git"
-  },
-  "keywords": [
-    "ngrx",
-    "redux",
-    "state",
-    "store"
-  ],
-  "author": "Roger Rudin",
-  "license": "Apache License 2.0",
-  "bugs": {
-    "url": "https://github.com/rudini/ngrx-reducer-builder/issues"
-  },
-  "homepage": "https://github.com/rudini/ngrx-reducer-builder#readme",
-  "peerDependencies": {
-    "@ngrx/store": "^6.1.0",
-    "rxjs": "^6.0.0"
-  },
-  "devDependencies": {
-    "@angular/compiler": "^6.1.0",
-    "@angular/compiler-cli": "^7.2.14",
-    "@angular/core": "^6.1.0",
-    "@ngrx/store": "6.1.0",
-    "ng-packagr": "^5.1.0",
-    "prettier": "^1.9.2",
-    "rxjs": "^6.0.0",
-    "tslint": "^5.9.1",
-    "typescript": "^3.1.1"
-  },
-  "ngPackage": {
-    "lib": {
-      "entryFile": "src/index.ts"
+    "name": "ngrx-reducer-builder",
+    "version": "0.0.2",
+    "description": "Reducer Utility Library for NGRX",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "ng-packagr -p package.json",
+        "publish": "npm publish dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rudini/ngrx-reducer-builder.git"
+    },
+    "keywords": [
+        "ngrx",
+        "redux",
+        "state",
+        "store"
+    ],
+    "author": "Roger Rudin",
+    "license": "Apache License 2.0",
+    "bugs": {
+        "url": "https://github.com/rudini/ngrx-reducer-builder/issues"
+    },
+    "homepage": "https://github.com/rudini/ngrx-reducer-builder#readme",
+    "peerDependencies": {
+        "@ngrx/store": "^6.1.0",
+        "rxjs": "^6.0.0"
+    },
+    "devDependencies": {
+        "@angular/compiler": "^6.1.0",
+        "@angular/compiler-cli": "^7.2.14",
+        "@angular/core": "^6.1.0",
+        "@ngrx/store": "6.1.0",
+        "ng-packagr": "^5.1.0",
+        "prettier": "^1.9.2",
+        "rxjs": "^6.0.0",
+        "tslint": "^5.9.1",
+        "typescript": "^3.1.1"
+    },
+    "ngPackage": {
+        "lib": {
+            "entryFile": "src/index.ts"
+        }
     }
-  }
 }
