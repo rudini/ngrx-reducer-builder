@@ -28,7 +28,7 @@
         "rxjs": "^6.0.0"
     },
     "devDependencies": {
-        "@angular/compiler": "^6.1.0",
+        "@angular/compiler": "^8.2.14",
         "@angular/compiler-cli": "^7.2.14",
         "@angular/core": "^6.1.0",
         "@ngrx/store": "6.1.2",
