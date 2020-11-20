@@ -1,6 +1,6 @@
 {
     "name": "ngrx-reducer-builder",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Reducer Utility Library for NGRX",
     "main": "dist/index.js",
     "scripts": {
@@ -24,19 +24,19 @@
     },
     "homepage": "https://github.com/rudini/ngrx-reducer-builder#readme",
     "peerDependencies": {
-        "@ngrx/store": "^6.1.0",
-        "rxjs": "^6.0.0"
+        "@ngrx/store": "^10.0.1",
+        "rxjs": "^6.6.3"
     },
     "devDependencies": {
-        "@angular/compiler": "^8.2.14",
-        "@angular/compiler-cli": "^7.2.14",
-        "@angular/core": "^6.1.0",
-        "@ngrx/store": "6.1.2",
+        "@angular/compiler": "^11.0.2",
+        "@angular/compiler-cli": "^11.0.2",
+        "@angular/core": "^11.0.2",
+        "@ngrx/store": "^10.0.1",
         "ng-packagr": "^5.1.0",
-        "prettier": "^2.0.4",
-        "rxjs": "^6.0.0",
-        "tslint": "^6.1.1",
-        "typescript": "^3.1.1"
+        "prettier": "^2.2.0",
+        "rxjs": "^6.6.3",
+        "tslint": "^6.1.3",
+        "typescript": "^4.0.5"
     },
     "ngPackage": {
         "lib": {
